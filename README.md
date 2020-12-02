@@ -1,0 +1,2 @@
+the basic premise of this project is to try and copy the google.com homepage to practice and apply the HTML and CSS skills I hopefully picked up so far on the odin project course.
+started on 02/12/2020 (dd/mm/yyyy)
